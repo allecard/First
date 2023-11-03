@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.JavaCoreSimplePractice.PackOne","l":"Avto"},{"p":"ru.JavaCoreSimplePractice.PackOne","l":"AvtoComparatorSpeed"},{"p":"ru.JavaCoreSimplePractice.PackOne","l":"Main"}];updateSearchResults();
